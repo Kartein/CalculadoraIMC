@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="botao_fresco">
+        <item name="android:textColor">#e5f1ee</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:backgroundTint">#5b83a5</item>
+        <item name="android:paddingHorizontal">40dp</item>
+    </style>
+</resources>
